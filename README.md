@@ -12,6 +12,8 @@ Also I am going to upload simulation codings to explrore/discover some useful fe
 #### Problem Set 2
 'ps2.m', 'ps2_with_GMMboot...', 'ps2_with_repAEsubsample.m' are essentially the same code files, but using self-defined functions 'GMMbootstrap.m' and 'repAEsubsample.m' respectively. I separated these function files to improve computation speed.
 'VarMR.m' and 'VarMR.cpp' are codes to implement M-R variance with improved performance(but failed - I leave them for future work)
+'pums80.mat' is the data file for the replication of Angrist,Evans(1998).
+'ps2n1000/2000/5000.mat', 'ps2r100b10000n100.mat' are the simulation results with n = 1000,2000,5000 , r = 100, b = 10000, n = 100 respectively.
 'untitled.m' : I don't know for what this is.
 
 #### Term paper codes and files
